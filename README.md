@@ -1,24 +1,16 @@
+
 # add-to-cart
 
-## Project setup
-```
-yarn install
-```
+## Project Overview
+A simple add-to-cart function that includes add, delete, calculate total amount and a JSON to store cart items in local storage.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Screenshots
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<p align="center">
+  <img src="src/assets/images/ss-1.png" width="250">
+  <img src="src/assets/images/ss-2.png" width="250">
+</p>
 
-### Lints and fixes files
-```
-yarn lint
-```
+## To be added
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- `Product images`
